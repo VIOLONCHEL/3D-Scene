@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowy Wooden Hut
+* source:	https://sketchfab.com/3d-models/snowy-wooden-hut-857c02ab61834df8a8d125ccce6fec2a
+* author:	gecko0307 (https://sketchfab.com/gecko0307)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowy Wooden Hut" (https://sketchfab.com/3d-models/snowy-wooden-hut-857c02ab61834df8a8d125ccce6fec2a) by gecko0307 (https://sketchfab.com/gecko0307) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

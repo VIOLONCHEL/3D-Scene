@@ -1,0 +1,11 @@
+Model Information:
+* title:	ZAZ-Daewoo L-1300 [RAW SCAN]
+* source:	https://sketchfab.com/3d-models/zaz-daewoo-l-1300-raw-scan-8c207d262e5448999a78ed810b510061
+* author:	MrUnity (https://sketchfab.com/MrUnityCreations)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ZAZ-Daewoo L-1300 [RAW SCAN]" (https://sketchfab.com/3d-models/zaz-daewoo-l-1300-raw-scan-8c207d262e5448999a78ed810b510061) by MrUnity (https://sketchfab.com/MrUnityCreations) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
